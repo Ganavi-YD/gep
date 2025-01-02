@@ -1,2 +1,7 @@
 helloo worldssss
+<<<<<<< HEAD
 i did reabsse on u
+=======
+ill stash you
+
+>>>>>>> 5412891 (msg)
